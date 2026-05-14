@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:120008,50:5c1530,100:f472b6&height=200&section=header&text=Rebecca%20Coelho&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=Sistemas%20de%20Informação%20·%20Dados%20·%20Dev%20·%20IA&descSize=15&descAlignY=62&descColor=f9a8d4" alt="header"/>
 
-<img src="./cat.png" width="100" alt="pixel cat"/>
 
 </div>
 
