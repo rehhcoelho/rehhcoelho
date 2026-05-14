@@ -9,7 +9,7 @@
 
 <img src="https://cdn.jsdelivr.net/npm/@tabler/icons/icons/user.svg" width="18" style="filter:invert(47%) sepia(98%) saturate(400%) hue-rotate(290deg)"/> &nbsp; **Sobre mim**
 
-Estudante de **Sistemas de Informação** com grande interesse em **Análise de Dados**, Desenvolvimento, Automação e Inteligência Artificial. Atualmente estagiando e desenvolvendo habilidades na prática.
+Estudante de **Sistemas de Informação** com grande interesse em Análise de Dados, Desenvolvimento, Automação e Inteligência Artificial. Atualmente estagiando na Bosch Campinas como desenvolvedora Power Platform e desenvolvendo habilidades na prática.
 
 Boa comunicação, raciocínio lógico e olhar analítico — acredito que tecnologia é uma poderosa ferramenta de transformação.
 
