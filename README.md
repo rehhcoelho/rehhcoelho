@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:120008,50:5c1530,100:f472b6&height=200&section=header&text=Rebecca%20Coelho&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=Sistemas%20de%20Informação%20·%20Dados%20·%20Dev%20·%20IA&descSize=15&descAlignY=62&descColor=f9a8d4" alt="header"/>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Rwa3RtNHBtMmR6dXVqYmJ6eHpxeHVyN3pia2ZpdWZsN2ZsdHZlayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RkDDkMFhXYFBFsVuuV/giphy.gif" width="80" alt="pixel cat"/>
+<img src="./cat.png" width="100" alt="pixel cat"/>
 
 </div>
 
