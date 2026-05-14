@@ -63,8 +63,8 @@ Boa comunicação, raciocínio lógico e olhar analítico.
 |---|---|
 | <img src="https://cdn.jsdelivr.net/npm/@tabler/icons/icons/message.svg" width="18"/> &nbsp; **Boa comunicação** | Me expresso com clareza em ambientes técnicos e globais |
 | <img src="https://cdn.jsdelivr.net/npm/@tabler/icons/icons/zoom-in.svg" width="18"/> &nbsp; **Olhar analítico** | Gosto de entender o problema antes de resolver |
-| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons/icons/bolt.svg" width="18"/> &nbsp; **Raciocínio lógico** | Encontro padrões onde outros veem ruído |
-| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons/icons/book.svg" width="18"/> &nbsp; **Aprendizado contínuo** | Curiosidade é o meu superpoder |
+| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons/icons/bolt.svg" width="18"/> &nbsp; **Raciocínio lógico** | Facilidade em encontrar padrões |
+| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons/icons/book.svg" width="18"/> &nbsp; **Aprendizado contínuo** | Sempre estou atrás de estudar coisas novas |
 | <img src="https://cdn.jsdelivr.net/npm/@tabler/icons/icons/users.svg" width="18"/> &nbsp; **Trabalho em equipe** | Colaboração faz parte da solução |
 
 </div>
