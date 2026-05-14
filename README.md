@@ -30,7 +30,7 @@ Boa comunicação, raciocínio lógico e olhar analítico.
 ![Power Platform](https://img.shields.io/badge/Power%20Platform-1e0010?style=for-the-badge&logo=microsoftpowerplatform&logoColor=f472b6)
 ![Power Automate](https://img.shields.io/badge/Power%20Automate-120008?style=for-the-badge&logo=powerautomate&logoColor=f9a8d4)
 ![Power Apps](https://img.shields.io/badge/Power%20Apps-1e0010?style=for-the-badge&logo=powerapps&logoColor=f472b6)
-![Copilot Studio](https://img.shields.io/badge/Copilot%20Studio-1e0010?style=for-the-badge&logo=copilotstudio&logoColor=f472b6)
+![Copilot Studio](https://img.shields.io/badge/Copilot%20Studio-1e0010?style=for-the-badge&logo=copilotstudio&logoColor=f9a8d4)
 
 **Segurança & IA**
 
